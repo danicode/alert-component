@@ -37,4 +37,3 @@ export class AlertComponent extends LitElement {
     ` : nothing;
   }
 }
-customElements.define('alert-component', AlertComponent);
